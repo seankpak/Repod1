@@ -1,6 +1,8 @@
 ---
 title: "Peer-graded Assignment: Course Project 1"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
